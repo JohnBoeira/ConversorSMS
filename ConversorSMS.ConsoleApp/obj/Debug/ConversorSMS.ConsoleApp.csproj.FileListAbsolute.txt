@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\bin\Debug\ConversorSMS.ConsoleApp.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\bin\Debug\ConversorSMS.ConsoleApp.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\obj\Debug\ConversorSMS.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\obj\Debug\ConversorSMS.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\obj\Debug\ConversorSMS.ConsoleApp.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Projetos\4º Semana de Maio\EscrevendoNoCelular\ConversorSMS.ConsoleApp\obj\Debug\ConversorSMS.ConsoleApp.pdb
